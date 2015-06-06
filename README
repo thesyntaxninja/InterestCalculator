@@ -1,6 +1,6 @@
-The purpose of this problem set is to give you practical experience with the creating a basic ASP.NET Web Application.
+The purpose of this problem is to give you practical experience with the creating a basic ASP.NET Web Application.
  
-After you have completed these problem, you will have built a program that is a C# ASP.NET Web application 
+After you have completed the problem, you will have built a program that is a C# ASP.NET Web application 
 The application will have multiple web pages with built in web navigation ( Main calculator page, and a help page) 
 Your application will have ASP.NET Web Forms controls 
 You will be able to launch your program in IIS and enter loan terms and the program will tell you what your monthly payments are.
